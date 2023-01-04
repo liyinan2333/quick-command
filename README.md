@@ -1,5 +1,8 @@
-将这些内容拷贝到~/.bashrc或~/.zshrc里面，并执行对应的source ~/.zshrc或source ~/.bashrc命令
+将以下内容拷贝到`~/.bashrc`或`~/.zshrc`里面，并执行对应的`source ~/.zshrc`或`source ~/.bashrc`命令
 
+```shell
 PATH=/home/leoli/code/quick-command/command/:$PATH
 alias lsort='ls -lSX'
 alias ltime='ls -ltr'
+```
+
