@@ -9,6 +9,13 @@ git clone https://github.com/liyinan2333/quick-command.git
 source ~/.zshrc
 ```
 
+### Update
+Execute the fllowing command in the terminal.
+```shell
+./update.sh
+source ~/.zshrc
+```
+
 ### Uninstall
 Execute the fllowing command in the terminal.
 ```shell
