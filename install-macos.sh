@@ -8,6 +8,8 @@ cat >> "$HOME/.zshrc" << EOF
 
 ##################### Quick command start ####################
 PATH=$HOME/code/shell/quick-command/command/macos/:\$PATH
+alias proxy="source proxy"
+alias unproxy="source unproxy"
 alias lsort="ls -lSX"
 alias ltime="ls -ltr"
 ####################  Quick command end  #####################
