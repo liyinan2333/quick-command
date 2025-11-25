@@ -1,2 +1,0 @@
-# alias open='wslview'这样写也可以
-explorer.exe $@
